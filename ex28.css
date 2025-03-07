@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1{
+    color: rgb(101, 7, 224);
+    font-weight: 300;
+}
+
+p {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    color: aqua;
+}
+
+#minha-div{
+    border: 12px solid rgb(129, 193, 3);
+}
